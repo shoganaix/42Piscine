@@ -1,7 +1,9 @@
+# Index
+* [What is the Piscine?](#42-piscine)
+* [Content and Grades](#content-and-grades)
 
-## What is the Piscine?
+## 42 Piscine
 The Piscine at **42** is a *trial month* that teaches you how to code through a series of challenges and intensive learning. 
-
 This serves as a pre-selection gauntlet to be accepted as a **42 student**.
 
 ## Content and Grades
